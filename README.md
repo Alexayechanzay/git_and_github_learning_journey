@@ -1,1 +1,1 @@
-# Git and Github journey
+# Git and Github Learning Journey
